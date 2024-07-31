@@ -1,0 +1,18 @@
+@relation animal
+@attribute M{true,false}
+@attribute o{true,false}
+@attribute N{true,false}
+@attribute K{true,false}
+@attribute E{true,false}
+@attribute y{true,false}
+@attribute D{true,false}
+@attribute A{true,false}
+@attribute U{true,false}
+@attribute C{true,false}
+@attribute I{true,false}
+@data
+true true true true true true false false false false false
+false true true true true true true false false false false
+true false false true true false false true false false false
+true false false true false true false false true true false
+false true false true true false false false false true true
